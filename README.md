@@ -1,7 +1,7 @@
 # Python Data Analysis
 財團法人人工智慧科技基金會「*Python Basic*」系列的線上課程程式碼，本程式碼包含 *快速上手*、*Data Type*、*Container*、*Control Flow*、*Function*、*Class* 以及 *Module*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
 
-教學影片可於[財團法人人工智慧科技基金會](https://www.leadercampus.com.tw/desktop/course-set/826 "財團法人人工智慧科技基金會")*YouTube*頻道上免費觀看。
+教學影片可於[財團法人人工智慧科技基金會](https://www.youtube.com/channel/UCMQ4IsHxtccFENDvRsdS1oA "財團法人人工智慧科技基金會")*YouTube*頻道上免費觀看。
 
 
 
@@ -32,3 +32,4 @@
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/finished%20upload.png" width="400px" >
 
 4. 如需開啟附檔為 " .ipynd ", 對此按右鍵, 選擇開啟工具為 " Google Colaboratory "
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="600px">
