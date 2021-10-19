@@ -34,7 +34,7 @@
 4. 如需開啟附檔為 " .ipynb ", 對此按右鍵, 選擇開啟工具為 " Google Colaboratory "
     <img src="https://github.com/AIF-TW/Python-Basic/blob/main/open%20in%20colab.jpg" width="800px">
     
-5. 課程*#6 Module*執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
+5. 課程 #6 *Module*執行時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
 
     (1) 按下執行
 
