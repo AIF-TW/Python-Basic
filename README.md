@@ -32,4 +32,4 @@
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/finished%20upload.png" width="400px" >
 
 4. 如需開啟附檔為 " .ipynd ", 對此按右鍵, 選擇開啟工具為 " Google Colaboratory "
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="600px">
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/open%20in%20colab.png" width="600px">
