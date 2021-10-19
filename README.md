@@ -25,7 +25,7 @@
 
     (1) 上傳位置為 " 我的雲端硬碟 > Colab Notebooks " 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="800px" >
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/upload%20path.png" width="800px" >
 
     (2) 上傳完成後, 並進入此資料夾即可看到如下圖。
 
