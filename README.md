@@ -19,17 +19,17 @@
 
     新增 Jupyter 筆記本
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="400px">
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/new%20notbook.jpg" width="800px">
 
 3. 將解壓縮後的資料夾上傳到自己的 google 雲端硬碟
 
     (1) 上傳位置為 " 我的雲端硬碟 > Colab Notebooks " 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="600px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="800px" >
 
     (2) 上傳完成後, 並進入此資料夾即可看到如下圖。
 
     <img src="https://github.com/AIF-TW/Python-Basic/blob/main/finished%20upload.JPG" width="800px" >
 
 4. 如需開啟附檔為 " .ipynb ", 對此按右鍵, 選擇開啟工具為 " Google Colaboratory "
-    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/open%20in%20colab.jpg" width="600px">
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/open%20in%20colab.jpg" width="800px">
