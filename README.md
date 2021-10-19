@@ -33,3 +33,30 @@
 
 4. 如需開啟附檔為 " .ipynb ", 對此按右鍵, 選擇開啟工具為 " Google Colaboratory "
     <img src="https://github.com/AIF-TW/Python-Basic/blob/main/open%20in%20colab.jpg" width="800px">
+    
+5. 課程*#6 Module*執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
+
+    (1) 按下執行
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="500px" >
+
+    (2) 按下連結並登入 Google 帳號進行進行認證
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account.png" width="400px">
+
+    (3) 按下 "允許" 取得權限
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20next.png" width="300">
+
+    (4) 複製金鑰
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20copy%20key.png" width="400">
+
+    (5) 貼上金鑰，按下 "Enter" 鍵
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/past%20key.png" width="600">
+
+    (6) 成功取得權限
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/get%20key%20sucess.png" width="400">
+
