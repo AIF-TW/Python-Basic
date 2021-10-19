@@ -11,7 +11,7 @@
 
     如下圖所示點選 Code 圖示 -> Download ZIP。   
     
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="800px" >
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/how%20to%20download.jpg" width="800px" >
 
     下載完成後進行解壓縮。
 
