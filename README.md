@@ -42,15 +42,15 @@
 
     (2) 按下連結並登入 Google 帳號進行進行認證
 
-    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/choose%20google%20account.png" width="600px">
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/choose%20google%20account.png" width="400px">
 
     (3) 按下 "允許" 取得權限
 
-    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/choose%20google%20account%20next.png" width="500px">
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/choose%20google%20account%20next.png" width="400px">
 
     (4) 複製金鑰
 
-    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/choose%20google%20account%20copy%20key.png" width="600px">
+    <img src="https://github.com/AIF-TW/Python-Basic/blob/main/choose%20google%20account%20copy%20key.png" width="500px">
 
     (5) 貼上金鑰，按下 "Enter" 鍵
 
